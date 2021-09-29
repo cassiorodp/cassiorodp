@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm **Cássio Pereira**, web development student at  **Trybe** 🚀.
+Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:.
 <br />
 :computer: Check my [portfolio](https://cassiorodp.github.io/).
 
