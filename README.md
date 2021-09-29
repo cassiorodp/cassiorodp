@@ -8,4 +8,4 @@
   - cassiorodp@gmail.com
 
 ### My Development Stack
-[![Linkedin Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([Link perfil no LinkedIn])
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
