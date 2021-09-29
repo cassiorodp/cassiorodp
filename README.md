@@ -8,9 +8,11 @@
 <br />
 <br />
 
-Hi, I'm **Cássio Pereira**, development student at  **Trybe** 🚀. 
+Hi, I'm **Cássio Pereira**, development student at  **Trybe** 🚀.
+<br />
+:computer: Check my [portfolio](https://cassiorodp.github.io/).
 
-**Meus interesses pessoais:**
+**About me:**
 
   <img align="right" alt="GIF" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" width="400px" />
 
@@ -18,7 +20,7 @@ Hi, I'm **Cássio Pereira**, development student at  **Trybe** 🚀.
 - 💼 Currently looking for opportunities;
 - 📫 Send a email to **cassiorodp@gmail.com** to reach me
 
-<br />
+
 <br />
 
 **Stack and tools:**  
@@ -37,21 +39,16 @@ Hi, I'm **Cássio Pereira**, development student at  **Trybe** 🚀.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 </p>
 
-
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=cassiorodp&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiorodp&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiorodp&layout=compact&theme=graywhite&title_color=268bd2" alt="cassiorodp" />
 </p>
 
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiorodp" alt="johnatas-henrique" /> </p>
-
-<p>:computer: Check my [portifólio](https://cassiorodp.github.io/)</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiorodp" alt="cassiorodp" /> </p>
 
 :exclamation: Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
-
