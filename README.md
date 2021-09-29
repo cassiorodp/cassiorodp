@@ -50,5 +50,3 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiorodp" alt="cassiorodp" /> </p>
-
-:exclamation: Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
