@@ -14,7 +14,7 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
 
 **About me:**
 
-  <img align="right" alt="GIF" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" width="400px" />
+  <img align="right" alt="GIF" src="mario.gif" width="400px" />
 
 - :joystick: My hobbies are gamming and watch movies;
 - 💼 Currently looking for opportunities;
