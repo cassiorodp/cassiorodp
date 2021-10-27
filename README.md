@@ -41,7 +41,7 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/mysql.svg" alt="git" width="40" height="40"/>
 </div>
 
 <p align="center">
