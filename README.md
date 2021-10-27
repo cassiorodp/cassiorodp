@@ -1,3 +1,8 @@
+Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:.
+<br />
+:computer: Check my [portfolio](https://cassiorodp.github.io/).
+
+<div>
 <a href="https://github.com/cassiorodp" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
@@ -7,13 +12,9 @@
 <a href="https://stackoverflow.com/users/17109480/c%c3%a1ssio-rodrigues-pereira" target="_blank">
   <img src="/stack_overflow.png" width="48px" height="48px">
 </a>
+</div>
 
 <br />
-<br />
-
-Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:.
-<br />
-:computer: Check my [portfolio](https://cassiorodp.github.io/).
 
 **About me:**
 
