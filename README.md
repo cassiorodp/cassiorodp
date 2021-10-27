@@ -4,6 +4,9 @@
 <a href="https://www.linkedin.com/in/cassio-rodrigues-pereira/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<a href="https://stackoverflow.com/users/17109480/c%c3%a1ssio-rodrigues-pereira" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/1393171?s=200&v=4" width="48px" height="48px">
+</a>
 
 <br />
 <br />
