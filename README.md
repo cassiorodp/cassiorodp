@@ -48,7 +48,7 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
 ---
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiorodp&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiorodp&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="cassiorodp" />
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiorodp&layout=compact&theme=dark&title_color=268bd2" alt="cassiorodp" />
