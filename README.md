@@ -14,7 +14,7 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
 </a>
 </div>
 
-<br />
+---
 
 **About me:**
 
@@ -35,14 +35,17 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/>
 </div>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/mysql.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="docker" width=40 height=40/>
 </div>
+
+---
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cassiorodp&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
