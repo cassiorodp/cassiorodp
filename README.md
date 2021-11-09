@@ -53,8 +53,9 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiorodp&layout=compact&theme=dark&title_color=268bd2" alt="cassiorodp" />
 </p>
-
+<!--
 <br />
 <br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cassiorodp" alt="cassiorodp" /> </p>
+-->
