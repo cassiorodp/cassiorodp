@@ -1,7 +1,7 @@
 Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:.
 <br />
 <br />
-:computer: Check my [portfolio](https://cassio-pereira.vercel.app/).
+:computer: Check my [**portfolio**](https://cassio-pereira.vercel.app/).
 
 <div>
 <a href="https://github.com/cassiorodp" target="_blank">
