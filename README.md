@@ -48,6 +48,11 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width=40 height=40/>
 </div>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+</div>
+
 ---
 
 <p align="center">
