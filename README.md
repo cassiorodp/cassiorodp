@@ -22,7 +22,7 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
   <img align="right" alt="GIF" src="mario.gif" width="400px" />
 
 - :joystick: My hobbies are gamming and watch movies;
-- 💼 Currently looking for opportunities;
+<!-- - 💼 Currently looking for opportunities; -->
 - 📫 Send a email to **cassiorodp@gmail.com** to reach me
 
 
