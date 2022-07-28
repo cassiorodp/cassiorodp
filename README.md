@@ -51,6 +51,7 @@ Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"" alt="materialUI" width="40" height="40" />
 </div>
 
 ---
