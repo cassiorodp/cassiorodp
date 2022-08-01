@@ -1,4 +1,4 @@
-Hi, I'm **Cássio Pereira**, web development student at  **Trybe** :green_heart:.
+Hi, I'm **Cássio Pereira**!
 <br />
 <br />
 :computer: **Check my** [portfolio](https://cassio-pereira.vercel.app/).
