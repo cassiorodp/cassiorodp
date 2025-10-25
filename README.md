@@ -10,9 +10,6 @@ Hi, I'm **Cássio Pereira**!
 <a href="https://www.linkedin.com/in/cassio-rodrigues-pereira/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<a href="https://stackoverflow.com/users/17109480/c%c3%a1ssio-rodrigues-pereira" target="_blank">
-  <img src="/stack_overflow.png" width="48px" height="48px">
-</a>
 </div>
 
 ---
