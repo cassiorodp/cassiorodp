@@ -17,9 +17,12 @@ Hi, I'm **Cássio Pereira**!
 
 ---
 
+  <img align="right" alt="GIF" src="mario.gif" width="400px" />
+
+<div align="left">
+  
 **About me:**
 
-  <img align="right" alt="GIF" src="mario.gif" width="400px" />
 
 - :joystick: My hobbies are gamming and watch movies;
 <!-- - 💼 Currently looking for opportunities; -->
@@ -33,6 +36,8 @@ Hi, I'm **Cássio Pereira**!
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,html,css,tailwind,jest,vitest,react,nextjs,redux,materialui,linux,git,mysql,mongodb,docker,nodejs,nestjs,prisma,sequelize&perline=5" />
+</div>
+
 </div>
 
 ---
