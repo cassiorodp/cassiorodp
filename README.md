@@ -4,9 +4,6 @@ Hi, I'm **Cássio Pereira**!
 :computer: **Check my** [portfolio](https://cassio-pereira.vercel.app/).
 
 <div>
-<a href="https://github.com/cassiorodp" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
 <a href="https://www.linkedin.com/in/cassio-rodrigues-pereira/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
